@@ -1,0 +1,23 @@
+.square{
+    width:200px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: blue;
+    transition: all 300ms;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+    /* transition: all 300ms; */
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
